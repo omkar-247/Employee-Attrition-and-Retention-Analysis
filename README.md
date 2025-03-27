@@ -56,7 +56,7 @@ This section highlights the key findings derived from the analysis of employee a
   - 40% Female
 - **Average Monthly Income**: $4,200
 
----
+
 
 ## 2. Attrition Drivers
 
@@ -68,7 +68,7 @@ This section highlights the key findings derived from the analysis of employee a
 2. **Job Dissatisfaction**: Low satisfaction scores correlated strongly with higher attrition rates.
 3. **Lack of Career Advancement Opportunities**: Employees who perceived limited growth opportunities were at higher risk of leaving.
 
----
+
 
 ## 3. Retention Improvement Opportunities
 
@@ -148,9 +148,8 @@ For further details, refer to the SQL queries in the [SQL_Scripts](https://githu
 
 ---
 
-#### ** Power BI Dashboard**:
-```markdown
-```
+####  Power BI Dashboard:
+
 The core of this analysis is presented through an interactive Power BI dashboard that provides visual insights into employee attrition. The dashboard helps to identify key factors such as job role, age, gender, work-life balance, and monthly income that contribute to employee turnover.
 
 #### Key Features:
