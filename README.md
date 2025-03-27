@@ -1,5 +1,5 @@
-# HR_Employee_Attrition
-# Employee Attrition & Retention Analysis Dashboard
+# HR Employee Attrition Analysis
+
 
 ## 📊 Project Overview
 This project focuses on analyzing employee attrition and retention factors using data analytics to provide insights into employee turnover. The goal is to help HR teams with strategic decisions that can reduce attrition and improve retention. The project includes a Power BI dashboard, SQL data processing, and data cleaning in Excel.
