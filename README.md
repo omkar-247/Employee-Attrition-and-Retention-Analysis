@@ -148,10 +148,10 @@ For further details, refer to the SQL queries in the [SQL_Scripts](https://githu
 
 ---
 
-#### Power BI Dashboard:
+## Power BI Dashboard:
 
 The core of this analysis is presented through an interactive Power BI dashboard that provides visual insights into employee attrition. The dashboard helps to identify key factors such as job role, age, gender, work-life balance, and monthly income that contribute to employee turnover.
----
+
 
 #### Key Features:
 - **Attrition by Gender**: Compare attrition rates between male and female employees.
@@ -188,7 +188,7 @@ COUNTX(FILTER(Employee, Employee[Attrition] = "Yes"), Employee[JobRole])
 
 ---
 ```
-####  Insights and Conclusion:
+## Insights and Conclusion:
 ```markdown
 ### Insights from the Analysis
 ```
