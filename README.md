@@ -1,4 +1,4 @@
-# HR Employee Attrition Analysis
+# Employee Attrition and Retention Analysis
 The core of this analysis is presented through an interactive Power BI dashboard that provides visual insights into employee attrition. The dashboard helps to identify key factors such as job role, age, gender, work-life balance, and monthly income that contribute to employee turnover.
 
 ## 📊 Project Overview
